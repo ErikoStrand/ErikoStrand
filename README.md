@@ -1,5 +1,7 @@
 I erik
+
 I go school nti
+
 I like programming
 
 I code in python for now, when I no can do the things I want I change languange and learn another
