@@ -4,8 +4,7 @@ I go school nti
 
 I like programming
 
-I code in python for now, when I no can do the things I want I change languange and learn another
-I been coding for 3 months.
+lets say ive been coding since i posted the first repository
 
 To reach I you can DM on instagram - Eriko.strand
 
