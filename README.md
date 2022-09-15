@@ -1,5 +1,7 @@
 My name is Erik and I code sometimes.
-Google is my bestfriend and has been there for me since 2021-07-15 ish.
+
+Google is my bestfriend and has been there for me since 2021-07-15 ish.z
+
 If you need to reach me for some reason DM me on instagram. 
 Eriko.strand.
 
