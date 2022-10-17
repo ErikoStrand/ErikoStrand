@@ -2,8 +2,8 @@ My name is Erik and I code sometimes.
 
 Google is my bestfriend and has been there for me since 2021-07-15 ish.z
 
-If you need to reach me for some reason DM me on instagram. 
-Eriko.strand.
+If you need to reach me for some reason DM me on discord. 
+eggsi#2634
 
 <!---
 ErikoStrand/ErikoStrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
