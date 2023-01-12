@@ -5,6 +5,10 @@ Google is my bestfriend and has been there for me since 2021-07-15 ish.z
 If you need to reach me for some reason DM me on discord. 
 eggsi#2634
 
+
+<p align="center">
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://profile-counter.glitch.me/{ErikoStrand}/count.svg)">
+</p>
 ![Visitor Count](https://profile-counter.glitch.me/{ErikoStrand}/count.svg)
 
 <!---
