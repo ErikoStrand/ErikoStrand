@@ -7,7 +7,7 @@ eggsi#2634
 
 
 <p align="center">
-  <img src="(https://profile-counter.glitch.me/{ErikoStrand}/count.svg)">
+  <img src="https://profile-counter.glitch.me/{ErikoStrand}/count.svg">
 </p>
 
 
