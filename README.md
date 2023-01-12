@@ -7,9 +7,9 @@ eggsi#2634
 
 
 <p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://profile-counter.glitch.me/{ErikoStrand}/count.svg)">
+  <img src="![Visitor Count](https://profile-counter.glitch.me/{ErikoStrand}/count.svg)">
 </p>
-![Visitor Count](https://profile-counter.glitch.me/{ErikoStrand}/count.svg)
+
 
 <!---
 ErikoStrand/ErikoStrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
