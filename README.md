@@ -7,6 +7,7 @@ eggsi#2634
 
 
 <p align="center">
+  <h1>Scuffed Visitor Count:</h1>
   <img src="https://profile-counter.glitch.me/{ErikoStrand}/count.svg">
 </p>
 
