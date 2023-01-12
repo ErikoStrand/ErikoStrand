@@ -5,9 +5,8 @@ Google is my bestfriend and has been there for me since 2021-07-15 ish.z
 If you need to reach me for some reason DM me on discord. 
 eggsi#2634
 
-
+<h1 align="center">Scuffed Visitor Count:</h1>
 <p align="center">
-  <h1>Scuffed Visitor Count:</h1>
   <img src="https://profile-counter.glitch.me/{ErikoStrand}/count.svg">
 </p>
 
