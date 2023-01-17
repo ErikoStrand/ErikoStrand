@@ -1,5 +1,5 @@
 <h1 align="center">My name is Erik and I code sometimes.</h1>
-Google is my bestfriend and has been there for me since 2021-07-15 ish.
+Google is my bestfriend and has been there for me since 2021-07-15.
 
 If you need to reach me for some reason DM me on discord eggsi#2634
 
