@@ -1,18 +1,12 @@
-My name is Erik and I code sometimes.
+<h1 align="center">Hi 👋, I'm Erik</h1>
+<h3 align="center">A somewhat lazy programmer from sweden</h3>
 
-Google is my bestfriend and has been there for me since 2021-07-15 ish.z
-
-If you need to reach me for some reason DM me on discord. 
-eggsi#2634
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikostrand&label=Visitors&color=1688d0&style=plastic" alt="erikostrand" /> </p>
 
 
-<h2 align="center">Scuffed Visitor Count:</h2>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{ErikoStrand}/count.svg">
-</p>
+<h3 align="left">Contact ME</h3>
+**erikstrandberg153@gmail.com**
 
 
-<!---
-ErikoStrand/ErikoStrand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Technologies</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
