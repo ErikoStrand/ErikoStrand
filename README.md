@@ -2,7 +2,7 @@
 Google is my bestfriend and has been there for me since 2021-07-15.
 
 currently working on a speciel website i've wanted to for a really long time.
-If you need to reach me for some reason DM me on discord exsie.
+If you need to reach me for some reason DM me on discord sexsie.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erikostrand&label=Visitors&color=1688d0&style=plastic" alt="erikostrand" /> </p>
 
